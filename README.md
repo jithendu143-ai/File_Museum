@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="git (1)" src="http://localhost:5173/" />
+<img width="1280" height="640" alt="git (1)" src=""C:\Users\jithe\OneDrive\Pictures\Screenshots\Unfiled_landing page.png"" />
 
 
 
