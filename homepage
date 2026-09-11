@@ -82,9 +82,6 @@ export default function Home() {
             </Link>
           </div>
         </div>
-<div className="mt-8 text-center text-[9px] tracking-widest text-parchment-600">
-  EST. 2026 · ALL ARTIFACTS FICTIONAL
-</div>
        
       </section>
 
