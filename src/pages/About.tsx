@@ -19,9 +19,9 @@ export default function About() {
         </div>
 
         <div className="animate-fade-in">
-          <span className="font-mono text-[9px] tracking-[0.4em] text-bronze-600 uppercase">
+          <div className="font-mono text-[9px] tracking-[0.4em] text-bronze-600 uppercase">
             Curatorial Statement
-          </span>
+          </div>
 
           {/* Stone-panel title */}
           <div className="mt-4 inline-block relative px-10 py-5 border border-bronze-700/25 mx-auto"
