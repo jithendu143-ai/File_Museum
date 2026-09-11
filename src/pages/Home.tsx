@@ -194,14 +194,7 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Bottom strip */}
-        <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 animate-fade-in text-[8px] tracking-[0.3em] text-parchment-700 font-mono">
-          <span>EST. 2026 · ALL ARTIFACTS FICTIONAL</span>
-          {/* Scroll chevron */}
-          <svg className="w-4 h-4 text-bronze-800 animate-bounce mt-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" d="M19 9l-7 7-7-7" />
-          </svg>
-        </div>
+
       </section>
 
       {/* ═══════════════════════════════════════════════════════
