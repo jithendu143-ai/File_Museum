@@ -3,7 +3,7 @@
 
 
 
-UNTITLED RELICS
+UNFILED RELICS
 
  Team Members
 - Team Lead: Jithendu S
@@ -46,9 +46,9 @@ Gemini API
 Storage
 
 Browser localStorage
-- [Frameworks used]
+- Frameworks used
 - 
-- [Libraries used]
+- Libraries used
 - Category	Technology
 Framework / UI Library :	React.js
 Build Tool :	Vite
@@ -57,7 +57,7 @@ Styling	CSS / Tailwind  : CSS
 Backend / Runtime	Node.js
 AI	Gemini API
 Storage	Browser localStorage
-- [Tools used]
+  -Tools used
 React
 React DOM
 Tailwind CSS
