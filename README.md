@@ -2,99 +2,204 @@
 <img width="1280" height="640" alt="Unfiled Landing Page" src="landing-page.png" />
 
 
-# [Project Name] 🎯
+UNTITLED RELICS
 
+ Team Members
+- Team Lead: Jithendu S
 
-## Basic Details
-### Team Name: [Name]
+Project Description
+The Museum of Things You Never Needed is a useless digital museum that turns random, forgotten files into fictional historical artifacts. AI acts as a digital archaeologist, giving each file a ridiculous history, era, cultural significance and Uselessness Score, before displaying it as an exhibit in an interactive virtual museum.
 
+The Problem (that doesn't exist)
 
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+Storing unwanted files giving them more attention than they deserve.
 
-### Project Description
-[2-3 lines about what your project does]
+The Solution (that nobody asked for)
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+A museum with these unwanted files exhibiting them like historical artifact giving them more attention than they deserve.
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Technical Details
 
-## Technical Details
-### Technologies/Components Used
+Technologies/Components Used
+
 For Software:
 - [Languages used]
+  
+- Frontend
+
+React
+JavaScript/TypeScript
+HTML
+CSS
+Tailwind CSS
+
+Backend
+
+Node.js
+JavaScript/TypeScript
+
+AI
+
+Gemini API
+
+Storage
+
+Browser localStorage
 - [Frameworks used]
+- 
 - [Libraries used]
+- Category	Technology
+Framework / UI Library :	React.js
+Build Tool :	Vite
+Programming Languages :	JavaScript, HTML, CSS
+Styling	CSS / Tailwind  : CSS
+Backend / Runtime	Node.js
+AI	Gemini API
+Storage	Browser localStorage
 - [Tools used]
+React
+React DOM
+Tailwind CSS
+Lucide React
+Google Gemini SDK
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+Installation & Setup
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Prerequisites
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+Make sure you have the following installed:
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+* Node.js (v18 or later)
+* npm
+* Git
 
-For Hardware:
+Clone the Repository
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+bash
+git clone https://github.com/jithendu143-ai/File_Museum.git
+cd File_Museum
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+ Install Dependencies
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+bash
+npm install
 
-![Final](Add photo of final product here)
-*Explain the final build*
+
+Environment Variables
+
+Create a `.env` file in the root directory and add your Gemini API key:
+
+env
+GEMINI_API_KEY=your_api_key_here
+
+
+Note: Never commit your `.env` file or expose your API key publicly.
+
+### Run the Development Server
+
+bash
+npm run dev
+
+The application will be available at:
+
+text
+http://localhost:5173
+
+
+Build for Production
+
+
+bash
+npm run build
+
+
+### Preview the Production Build
+
+bash
+npm run preview
+
+
+
+
+Technologies Used
+
+Programming Languages
+
+* JavaScript
+* HTML
+* CSS
+
+Frameworks & Libraries
+
+* React.js
+* Vite
+* Tailwind CSS
+* Lucide React
+* Google Gemini SDK
+
+Tools & Services
+
+* Google Antigravity
+* Git
+* GitHub
+* Google Gemini
+
+ Storage
+
+* Browser LocalStorage
+
+
+ Screenshots (Add at least 3)
+
+
+<p align="center">
+  <img src="screenshots/landing-page.png" alt="Museum Landing Page" width="100%">
+</p>
+
+<p align="center">
+  <em>The entrance to the Digital Archives.</em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/museum.png" alt="Digital Archives Museum" width="100%">
+</p>
+
+<p align="center">
+  <em>The permanent collection of things that probably should have been deleted.</em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/discover.png" alt="Archaeological Excavation" width="100%">
+</p>
+
+<p align="center">
+  <em>Begin an archaeological excavation of a forgotten digital file.</em>
+</p>
+
+
+ Diagrams
+ Project Workflow
+
+The project transforms an ordinary forgotten file into a fictional museum artifact through AI-powered digital archaeology.
+
+<p align="center">
+  <img src="screenshots/project workflow.png" alt="Project Workflow" width="100%">
+</p>
+
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
-Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
