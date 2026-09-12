@@ -1,5 +1,6 @@
 
-<img width="1280" height="640" alt="Unfiled Landing Page" src="landing-page.png" />
+<img width="1900" height="903" alt="landing-page png" src="https://github.com/user-attachments/assets/1c46f41d-2cb2-45c5-bbf7-29283814411c" />
+
 
 
 UNTITLED RELICS
@@ -154,50 +155,27 @@ Tools & Services
 
  Screenshots (Add at least 3)
 
+<img width="1900" height="903" alt="landing-page png" src="https://github.com/user-attachments/assets/afc2a291-f1a7-4eef-81a6-6aaf44ba29b5" />
 
-<p align="center">
-  <img src="screenshots/landing-page.png" alt="Museum Landing Page" width="100%">
-</p>
+The entrance to the Digital Archives — where forgotten files are given a questionable historical significance.
 
-<p align="center">
-  <em>The entrance to the Digital Archives.</em>
-</p>
 
-<br>
+<img width="1887" height="898" alt="Discover page" src="https://github.com/user-attachments/assets/47ae012c-6080-4721-b00c-c3748301e47d" />
 
-<p align="center">
-  <img src="screenshots/museum.png" alt="Digital Archives Museum" width="100%">
-</p>
+Upload a forgotten digital file and begin the archaeological analysis.
 
-<p align="center">
-  <em>The permanent collection of things that probably should have been deleted.</em>
-</p>
+<img width="1882" height="902" alt="Explore museum" src="https://github.com/user-attachments/assets/ec0f6ea5-296e-4768-9ae5-19f058fb3669" />
 
-<br>
-
-<p align="center">
-  <img src="screenshots/discover.png" alt="Archaeological Excavation" width="100%">
-</p>
-
-<p align="center">
-  <em>Begin an archaeological excavation of a forgotten digital file.</em>
-</p>
-
+Explore the museum's permanent collection of files that probably should have been deleted.
 
  Diagrams
  Project Workflow
 
 The project transforms an ordinary forgotten file into a fictional museum artifact through AI-powered digital archaeology.
 
-<p align="center">
-  <img src="screenshots/project workflow.png" alt="Project Workflow" width="100%">
-</p>
+<img width="1312" height="1199" alt="project workflow" src="https://github.com/user-attachments/assets/68a05705-6c20-40e2-8f08-16d6db78d6e5" />
 
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
 
 
