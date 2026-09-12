@@ -24,7 +24,7 @@ Technical Details
 Technologies/Components Used
 
 For Software:
-- [Languages used]
+- Languages used
   
 - Frontend
 
