@@ -47,16 +47,15 @@ Storage
 
 Browser localStorage
 - Frameworks used
-- 
 - Libraries used
 - Category	Technology
 Framework / UI Library :	React.js
 Build Tool :	Vite
 Programming Languages :	JavaScript, HTML, CSS
 Styling	CSS / Tailwind  : CSS
-Backend / Runtime	Node.js
-AI	Gemini API
-Storage	Browser localStorage
+Backend / Runtime :	Node.js
+AI :	Gemini API
+Storage	Browser : localStorage
   -Tools used
 React
 React DOM
@@ -99,7 +98,7 @@ GEMINI_API_KEY=your_api_key_here
 
 Note: Never commit your `.env` file or expose your API key publicly.
 
-### Run the Development Server
+ Run the Development Server
 
 bash
 npm run dev
@@ -117,7 +116,7 @@ bash
 npm run build
 
 
-### Preview the Production Build
+Preview the Production Build
 
 bash
 npm run preview
